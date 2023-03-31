@@ -1,0 +1,9 @@
+{
+	"name": "AdfAdbDemoInstance",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d38da7a-8cd6-4392-a8a1-e6e15a2d8e6a",
+		"tenantId": "4e2e9e51-0232-4bff-9493-f92e17304a24"
+	}
+}
